@@ -1,0 +1,13 @@
+# ninja log v6
+4	382	7660821302724686	CMakeFiles/P1_1_Printer.dir/main.cpp.obj	cdf96c5ba5108eb8
+361	420	7660821225495077	P1_1_Printer.exe	60346ad6a4cd00b4
+11	452	7660822053344820	CMakeFiles/P1_1_Printer.dir/main.cpp.obj	cdf96c5ba5108eb8
+15	516	7660822053374979	CMakeFiles/P1_1_Printer.dir/printer.cpp.obj	a57e271366c38cb9
+516	606	7660822058385986	P1_1_Printer.exe	35b75ce9b913ecff
+10	490	7660823857643337	CMakeFiles/P1_1_Printer.dir/printer.cpp.obj	a57e271366c38cb9
+490	580	7660823862446472	P1_1_Printer.exe	35b75ce9b913ecff
+10	426	7660824980427192	CMakeFiles/P1_1_Printer.dir/main.cpp.obj	cdf96c5ba5108eb8
+13	477	7660824980457609	CMakeFiles/P1_1_Printer.dir/printer.cpp.obj	a57e271366c38cb9
+478	553	7660824985106269	P1_1_Printer.exe	35b75ce9b913ecff
+10	409	7660825155430072	CMakeFiles/P1_1_Printer.dir/main.cpp.obj	cdf96c5ba5108eb8
+409	492	7660825159425453	P1_1_Printer.exe	35b75ce9b913ecff

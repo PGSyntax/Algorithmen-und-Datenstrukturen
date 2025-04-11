@@ -1,0 +1,3 @@
+C:/Users/legue/Desktop/UNI/ads/Praktikum1/P1_1_Printer/cmake-build-debug/CMakeFiles/P1_1_Printer.dir
+C:/Users/legue/Desktop/UNI/ads/Praktikum1/P1_1_Printer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/legue/Desktop/UNI/ads/Praktikum1/P1_1_Printer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
